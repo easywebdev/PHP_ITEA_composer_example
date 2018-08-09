@@ -21,7 +21,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/app/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="21" />
@@ -113,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533834302502</updated>
-      <workItem from="1533834304002" duration="467000" />
+      <workItem from="1533834304002" duration="910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="467000" />
+    <option name="totallyTimeSpent" value="910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -151,7 +151,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="21" />
