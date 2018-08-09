@@ -1,5 +1,5 @@
 <?php
-namespace mywork;
+namespace app;
 
 function getData(string $data1, string $data2) {
         $data = $data1 . '=' . $data2;
