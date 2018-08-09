@@ -1,5 +1,5 @@
 {
-  "name":"mywork",
+  "name":"mywork/myapp",
   "version":"1.0.0",
   "require":{
     "php":">=5.3.0"
